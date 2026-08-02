@@ -1,0 +1,1096 @@
+[
+  {
+    "pdf_page": 1,
+    "section": "Orientamento al manuale",
+    "lesson": "Presentazione della sbobina",
+    "site_path": "#/pagina/1",
+    "images_used": [
+      "assets/pages/page-001.jpg",
+      "assets/figures/pagina-001-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 2,
+    "section": "Fondamenti della circolazione",
+    "lesson": "Grande e piccola circolazione",
+    "site_path": "#/pagina/2",
+    "images_used": [
+      "assets/pages/page-002.jpg",
+      "assets/figures/pagina-002-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 3,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Introduzione, posizione e mediastino",
+    "site_path": "#/pagina/3",
+    "images_used": [
+      "assets/pages/page-003.jpg"
+    ]
+  },
+  {
+    "pdf_page": 4,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Introduzione, posizione e mediastino",
+    "site_path": "#/pagina/4",
+    "images_used": [
+      "assets/pages/page-004.jpg",
+      "assets/figures/pagina-004-figura-01.webp",
+      "assets/figures/pagina-004-figura-02.webp",
+      "assets/figures/pagina-004-figura-03.webp",
+      "assets/figures/pagina-004-figura-04.webp",
+      "assets/figures/pagina-004-figura-05.webp"
+    ]
+  },
+  {
+    "pdf_page": 5,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Introduzione, posizione e mediastino",
+    "site_path": "#/pagina/5",
+    "images_used": [
+      "assets/pages/page-005.jpg",
+      "assets/figures/pagina-005-figura-01.webp",
+      "assets/figures/pagina-005-figura-02.webp",
+      "assets/figures/pagina-005-figura-03.webp",
+      "assets/figures/pagina-005-figura-04.webp"
+    ]
+  },
+  {
+    "pdf_page": 6,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Topografia cardiaca e focolai",
+    "site_path": "#/pagina/6",
+    "images_used": [
+      "assets/pages/page-006.jpg",
+      "assets/figures/pagina-006-figura-01.webp",
+      "assets/figures/pagina-006-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 7,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Topografia cardiaca e focolai",
+    "site_path": "#/pagina/7",
+    "images_used": [
+      "assets/pages/page-007.jpg",
+      "assets/figures/pagina-007-figura-01.webp",
+      "assets/figures/pagina-007-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 8,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Facce, margini, solchi, base e apice",
+    "site_path": "#/pagina/8",
+    "images_used": [
+      "assets/pages/page-008.jpg",
+      "assets/figures/pagina-008-figura-01.webp",
+      "assets/figures/pagina-008-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 9,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Facce, margini, solchi, base e apice",
+    "site_path": "#/pagina/9",
+    "images_used": [
+      "assets/pages/page-009.jpg",
+      "assets/figures/pagina-009-figura-01.webp",
+      "assets/figures/pagina-009-figura-02.webp",
+      "assets/figures/pagina-009-figura-03.webp",
+      "assets/figures/pagina-009-figura-04.webp"
+    ]
+  },
+  {
+    "pdf_page": 10,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Facce, margini, solchi, base e apice",
+    "site_path": "#/pagina/10",
+    "images_used": [
+      "assets/pages/page-010.jpg",
+      "assets/figures/pagina-010-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 11,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Rapporti e mezzi di fissità",
+    "site_path": "#/pagina/11",
+    "images_used": [
+      "assets/pages/page-011.jpg",
+      "assets/figures/pagina-011-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 12,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Rapporti e mezzi di fissità",
+    "site_path": "#/pagina/12",
+    "images_used": [
+      "assets/pages/page-012.jpg",
+      "assets/figures/pagina-012-figura-01.webp",
+      "assets/figures/pagina-012-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 13,
+    "section": "Morfologia e topografia del cuore",
+    "lesson": "Rapporti e mezzi di fissità",
+    "site_path": "#/pagina/13",
+    "images_used": [
+      "assets/pages/page-013.jpg",
+      "assets/figures/pagina-013-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 14,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Cavità cardiache e atrio destro",
+    "site_path": "#/pagina/14",
+    "images_used": [
+      "assets/pages/page-014.jpg",
+      "assets/figures/pagina-014-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 15,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Cavità cardiache e atrio destro",
+    "site_path": "#/pagina/15",
+    "images_used": [
+      "assets/pages/page-015.jpg",
+      "assets/figures/pagina-015-figura-01.webp",
+      "assets/figures/pagina-015-figura-02.webp",
+      "assets/figures/pagina-015-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 16,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Cavità cardiache e atrio destro",
+    "site_path": "#/pagina/16",
+    "images_used": [
+      "assets/pages/page-016.jpg",
+      "assets/figures/pagina-016-figura-01.webp",
+      "assets/figures/pagina-016-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 17,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Cavità cardiache e atrio destro",
+    "site_path": "#/pagina/17",
+    "images_used": [
+      "assets/pages/page-017.jpg",
+      "assets/figures/pagina-017-figura-01.webp",
+      "assets/figures/pagina-017-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 18,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Atrio sinistro",
+    "site_path": "#/pagina/18",
+    "images_used": [
+      "assets/pages/page-018.jpg",
+      "assets/figures/pagina-018-figura-01.webp",
+      "assets/figures/pagina-018-figura-02.webp",
+      "assets/figures/pagina-018-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 19,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Atrio sinistro",
+    "site_path": "#/pagina/19",
+    "images_used": [
+      "assets/pages/page-019.jpg",
+      "assets/figures/pagina-019-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 20,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Ventricoli, trabecole e muscoli papillari",
+    "site_path": "#/pagina/20",
+    "images_used": [
+      "assets/pages/page-020.jpg",
+      "assets/figures/pagina-020-figura-01.webp",
+      "assets/figures/pagina-020-figura-02.webp",
+      "assets/figures/pagina-020-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 21,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Ventricoli, trabecole e muscoli papillari",
+    "site_path": "#/pagina/21",
+    "images_used": [
+      "assets/pages/page-021.jpg",
+      "assets/figures/pagina-021-figura-01.webp",
+      "assets/figures/pagina-021-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 22,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Ventricoli, trabecole e muscoli papillari",
+    "site_path": "#/pagina/22",
+    "images_used": [
+      "assets/pages/page-022.jpg",
+      "assets/figures/pagina-022-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 23,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Ventricoli, trabecole e muscoli papillari",
+    "site_path": "#/pagina/23",
+    "images_used": [
+      "assets/pages/page-023.jpg",
+      "assets/figures/pagina-023-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 24,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Ventricoli, trabecole e muscoli papillari",
+    "site_path": "#/pagina/24",
+    "images_used": [
+      "assets/pages/page-024.jpg",
+      "assets/figures/pagina-024-figura-01.webp",
+      "assets/figures/pagina-024-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 25,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Valvole atrioventricolari",
+    "site_path": "#/pagina/25",
+    "images_used": [
+      "assets/pages/page-025.jpg"
+    ]
+  },
+  {
+    "pdf_page": 26,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Valvole atrioventricolari",
+    "site_path": "#/pagina/26",
+    "images_used": [
+      "assets/pages/page-026.jpg",
+      "assets/figures/pagina-026-figura-01.webp",
+      "assets/figures/pagina-026-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 27,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Valvole atrioventricolari",
+    "site_path": "#/pagina/27",
+    "images_used": [
+      "assets/pages/page-027.jpg",
+      "assets/figures/pagina-027-figura-01.webp",
+      "assets/figures/pagina-027-figura-02.webp",
+      "assets/figures/pagina-027-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 28,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Valvole atrioventricolari",
+    "site_path": "#/pagina/28",
+    "images_used": [
+      "assets/pages/page-028.jpg",
+      "assets/figures/pagina-028-figura-01.webp",
+      "assets/figures/pagina-028-figura-02.webp",
+      "assets/figures/pagina-028-figura-03.webp",
+      "assets/figures/pagina-028-figura-04.webp",
+      "assets/figures/pagina-028-figura-05.webp"
+    ]
+  },
+  {
+    "pdf_page": 29,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Valvole semilunari e scheletro fibroso",
+    "site_path": "#/pagina/29",
+    "images_used": [
+      "assets/pages/page-029.jpg"
+    ]
+  },
+  {
+    "pdf_page": 30,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Valvole semilunari e scheletro fibroso",
+    "site_path": "#/pagina/30",
+    "images_used": [
+      "assets/pages/page-030.jpg",
+      "assets/figures/pagina-030-figura-01.webp",
+      "assets/figures/pagina-030-figura-02.webp",
+      "assets/figures/pagina-030-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 31,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Valvole semilunari e scheletro fibroso",
+    "site_path": "#/pagina/31",
+    "images_used": [
+      "assets/pages/page-031.jpg",
+      "assets/figures/pagina-031-figura-01.webp",
+      "assets/figures/pagina-031-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 32,
+    "section": "Cavità cardiache, valvole e scheletro fibroso",
+    "lesson": "Valvole semilunari e scheletro fibroso",
+    "site_path": "#/pagina/32",
+    "images_used": [
+      "assets/pages/page-032.jpg",
+      "assets/figures/pagina-032-figura-01.webp",
+      "assets/figures/pagina-032-figura-02.webp",
+      "assets/figures/pagina-032-figura-03.webp",
+      "assets/figures/pagina-032-figura-04.webp"
+    ]
+  },
+  {
+    "pdf_page": 33,
+    "section": "Circolazione fetale",
+    "lesson": "Circolazione fetale e modificazioni alla nascita",
+    "site_path": "#/pagina/33",
+    "images_used": [
+      "assets/pages/page-033.jpg",
+      "assets/figures/pagina-033-figura-01.webp",
+      "assets/figures/pagina-033-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 34,
+    "section": "Circolazione fetale",
+    "lesson": "Circolazione fetale e modificazioni alla nascita",
+    "site_path": "#/pagina/34",
+    "images_used": [
+      "assets/pages/page-034.jpg",
+      "assets/figures/pagina-034-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 35,
+    "section": "Sistema di conduzione e regolazione",
+    "lesson": "Nodi, fasci e reti sottoendocardiche",
+    "site_path": "#/pagina/35",
+    "images_used": [
+      "assets/pages/page-035.jpg"
+    ]
+  },
+  {
+    "pdf_page": 36,
+    "section": "Sistema di conduzione e regolazione",
+    "lesson": "Nodi, fasci e reti sottoendocardiche",
+    "site_path": "#/pagina/36",
+    "images_used": [
+      "assets/pages/page-036.jpg"
+    ]
+  },
+  {
+    "pdf_page": 37,
+    "section": "Sistema di conduzione e regolazione",
+    "lesson": "Nodi, fasci e reti sottoendocardiche",
+    "site_path": "#/pagina/37",
+    "images_used": [
+      "assets/pages/page-037.jpg",
+      "assets/figures/pagina-037-figura-01.webp",
+      "assets/figures/pagina-037-figura-02.webp",
+      "assets/figures/pagina-037-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 38,
+    "section": "Sistema di conduzione e regolazione",
+    "lesson": "Nodi, fasci e reti sottoendocardiche",
+    "site_path": "#/pagina/38",
+    "images_used": [
+      "assets/pages/page-038.jpg",
+      "assets/figures/pagina-038-figura-01.webp",
+      "assets/figures/pagina-038-figura-02.webp",
+      "assets/figures/pagina-038-figura-03.webp",
+      "assets/figures/pagina-038-figura-04.webp"
+    ]
+  },
+  {
+    "pdf_page": 39,
+    "section": "Sistema di conduzione e regolazione",
+    "lesson": "Nodi, fasci e reti sottoendocardiche",
+    "site_path": "#/pagina/39",
+    "images_used": [
+      "assets/pages/page-039.jpg",
+      "assets/figures/pagina-039-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 40,
+    "section": "Sistema di conduzione e regolazione",
+    "lesson": "Nodi, fasci e reti sottoendocardiche",
+    "site_path": "#/pagina/40",
+    "images_used": [
+      "assets/pages/page-040.jpg",
+      "assets/figures/pagina-040-figura-01.webp",
+      "assets/figures/pagina-040-figura-02.webp",
+      "assets/figures/pagina-040-figura-03.webp",
+      "assets/figures/pagina-040-figura-04.webp"
+    ]
+  },
+  {
+    "pdf_page": 41,
+    "section": "Sistema di conduzione e regolazione",
+    "lesson": "Innervazione e regolazione cardiaca",
+    "site_path": "#/pagina/41",
+    "images_used": [
+      "assets/pages/page-041.jpg",
+      "assets/figures/pagina-041-figura-01.webp",
+      "assets/figures/pagina-041-figura-02.webp",
+      "assets/figures/pagina-041-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 42,
+    "section": "Sistema di conduzione e regolazione",
+    "lesson": "Innervazione e regolazione cardiaca",
+    "site_path": "#/pagina/42",
+    "images_used": [
+      "assets/pages/page-042.jpg",
+      "assets/figures/pagina-042-figura-01.webp",
+      "assets/figures/pagina-042-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 43,
+    "section": "Parete cardiaca e pericardio",
+    "lesson": "Endocardio, miocardio ed epicardio",
+    "site_path": "#/pagina/43",
+    "images_used": [
+      "assets/pages/page-043.jpg",
+      "assets/figures/pagina-043-figura-01.webp",
+      "assets/figures/pagina-043-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 44,
+    "section": "Parete cardiaca e pericardio",
+    "lesson": "Pericardio fibroso e sieroso",
+    "site_path": "#/pagina/44",
+    "images_used": [
+      "assets/pages/page-044.jpg",
+      "assets/figures/pagina-044-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 45,
+    "section": "Parete cardiaca e pericardio",
+    "lesson": "Pericardio fibroso e sieroso",
+    "site_path": "#/pagina/45",
+    "images_used": [
+      "assets/pages/page-045.jpg",
+      "assets/figures/pagina-045-figura-01.webp",
+      "assets/figures/pagina-045-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 46,
+    "section": "Parete cardiaca e pericardio",
+    "lesson": "Pericardio fibroso e sieroso",
+    "site_path": "#/pagina/46",
+    "images_used": [
+      "assets/pages/page-046.jpg",
+      "assets/figures/pagina-046-figura-01.webp",
+      "assets/figures/pagina-046-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 47,
+    "section": "Parete cardiaca e pericardio",
+    "lesson": "Pericardio fibroso e sieroso",
+    "site_path": "#/pagina/47",
+    "images_used": [
+      "assets/pages/page-047.jpg",
+      "assets/figures/pagina-047-figura-01.webp",
+      "assets/figures/pagina-047-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 48,
+    "section": "Parete cardiaca e pericardio",
+    "lesson": "Seno trasverso, seno obliquo e diverticoli",
+    "site_path": "#/pagina/48",
+    "images_used": [
+      "assets/pages/page-048.jpg",
+      "assets/figures/pagina-048-figura-01.webp",
+      "assets/figures/pagina-048-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 49,
+    "section": "Parete cardiaca e pericardio",
+    "lesson": "Seno trasverso, seno obliquo e diverticoli",
+    "site_path": "#/pagina/49",
+    "images_used": [
+      "assets/pages/page-049.jpg",
+      "assets/figures/pagina-049-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 50,
+    "section": "Parete cardiaca e pericardio",
+    "lesson": "Seno trasverso, seno obliquo e diverticoli",
+    "site_path": "#/pagina/50",
+    "images_used": [
+      "assets/pages/page-050.jpg",
+      "assets/figures/pagina-050-figura-01.webp",
+      "assets/figures/pagina-050-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 51,
+    "section": "Circolazione coronarica",
+    "lesson": "Arterie coronarie e dominanza",
+    "site_path": "#/pagina/51",
+    "images_used": [
+      "assets/pages/page-051.jpg",
+      "assets/figures/pagina-051-figura-01.webp",
+      "assets/figures/pagina-051-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 52,
+    "section": "Circolazione coronarica",
+    "lesson": "Arterie coronarie e dominanza",
+    "site_path": "#/pagina/52",
+    "images_used": [
+      "assets/pages/page-052.jpg",
+      "assets/figures/pagina-052-figura-01.webp",
+      "assets/figures/pagina-052-figura-02.webp",
+      "assets/figures/pagina-052-figura-03.webp",
+      "assets/figures/pagina-052-figura-04.webp"
+    ]
+  },
+  {
+    "pdf_page": 53,
+    "section": "Circolazione coronarica",
+    "lesson": "Arterie coronarie e dominanza",
+    "site_path": "#/pagina/53",
+    "images_used": [
+      "assets/pages/page-053.jpg",
+      "assets/figures/pagina-053-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 54,
+    "section": "Circolazione coronarica",
+    "lesson": "Arterie coronarie e dominanza",
+    "site_path": "#/pagina/54",
+    "images_used": [
+      "assets/pages/page-054.jpg",
+      "assets/figures/pagina-054-figura-01.webp",
+      "assets/figures/pagina-054-figura-02.webp",
+      "assets/figures/pagina-054-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 55,
+    "section": "Circolazione coronarica",
+    "lesson": "Ritorno venoso del cuore",
+    "site_path": "#/pagina/55",
+    "images_used": [
+      "assets/pages/page-055.jpg",
+      "assets/figures/pagina-055-figura-01.webp",
+      "assets/figures/pagina-055-figura-02.webp",
+      "assets/figures/pagina-055-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 56,
+    "section": "Struttura e funzione dei vasi",
+    "lesson": "Tonache e struttura dei vasi",
+    "site_path": "#/pagina/56",
+    "images_used": [
+      "assets/pages/page-056.jpg",
+      "assets/figures/pagina-056-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 57,
+    "section": "Struttura e funzione dei vasi",
+    "lesson": "Arterie, arteriole, capillari e microcircolo",
+    "site_path": "#/pagina/57",
+    "images_used": [
+      "assets/pages/page-057.jpg",
+      "assets/figures/pagina-057-figura-01.webp",
+      "assets/figures/pagina-057-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 58,
+    "section": "Struttura e funzione dei vasi",
+    "lesson": "Arterie, arteriole, capillari e microcircolo",
+    "site_path": "#/pagina/58",
+    "images_used": [
+      "assets/pages/page-058.jpg",
+      "assets/figures/pagina-058-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 59,
+    "section": "Struttura e funzione dei vasi",
+    "lesson": "Arterie, arteriole, capillari e microcircolo",
+    "site_path": "#/pagina/59",
+    "images_used": [
+      "assets/pages/page-059.jpg",
+      "assets/figures/pagina-059-figura-01.webp",
+      "assets/figures/pagina-059-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 60,
+    "section": "Struttura e funzione dei vasi",
+    "lesson": "Vene, valvole e ritorno venoso",
+    "site_path": "#/pagina/60",
+    "images_used": [
+      "assets/pages/page-060.jpg",
+      "assets/figures/pagina-060-figura-01.webp",
+      "assets/figures/pagina-060-figura-02.webp",
+      "assets/figures/pagina-060-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 61,
+    "section": "Struttura e funzione dei vasi",
+    "lesson": "Vene, valvole e ritorno venoso",
+    "site_path": "#/pagina/61",
+    "images_used": [
+      "assets/pages/page-061.jpg",
+      "assets/figures/pagina-061-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 62,
+    "section": "Struttura e funzione dei vasi",
+    "lesson": "Vene, valvole e ritorno venoso",
+    "site_path": "#/pagina/62",
+    "images_used": [
+      "assets/pages/page-062.jpg",
+      "assets/figures/pagina-062-figura-01.webp",
+      "assets/figures/pagina-062-figura-02.webp",
+      "assets/figures/pagina-062-figura-03.webp",
+      "assets/figures/pagina-062-figura-04.webp"
+    ]
+  },
+  {
+    "pdf_page": 63,
+    "section": "Aorta e rami principali",
+    "lesson": "Aorta ascendente, arco e aorta discendente",
+    "site_path": "#/pagina/63",
+    "images_used": [
+      "assets/pages/page-063.jpg",
+      "assets/figures/pagina-063-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 64,
+    "section": "Aorta e rami principali",
+    "lesson": "Aorta ascendente, arco e aorta discendente",
+    "site_path": "#/pagina/64",
+    "images_used": [
+      "assets/pages/page-064.jpg",
+      "assets/figures/pagina-064-figura-01.webp",
+      "assets/figures/pagina-064-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 65,
+    "section": "Aorta e rami principali",
+    "lesson": "Aorta ascendente, arco e aorta discendente",
+    "site_path": "#/pagina/65",
+    "images_used": [
+      "assets/pages/page-065.jpg",
+      "assets/figures/pagina-065-figura-01.webp",
+      "assets/figures/pagina-065-figura-02.webp",
+      "assets/figures/pagina-065-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 66,
+    "section": "Aorta e rami principali",
+    "lesson": "Aorta ascendente, arco e aorta discendente",
+    "site_path": "#/pagina/66",
+    "images_used": [
+      "assets/pages/page-066.jpg",
+      "assets/figures/pagina-066-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 67,
+    "section": "Arterie degli arti superiori",
+    "lesson": "Asse arterioso dell’arto superiore",
+    "site_path": "#/pagina/67",
+    "images_used": [
+      "assets/pages/page-067.jpg",
+      "assets/figures/pagina-067-figura-01.webp",
+      "assets/figures/pagina-067-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 68,
+    "section": "Arterie degli arti superiori",
+    "lesson": "Asse arterioso dell’arto superiore",
+    "site_path": "#/pagina/68",
+    "images_used": [
+      "assets/pages/page-068.jpg",
+      "assets/figures/pagina-068-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 69,
+    "section": "Arterie degli arti superiori",
+    "lesson": "Asse arterioso dell’arto superiore",
+    "site_path": "#/pagina/69",
+    "images_used": [
+      "assets/pages/page-069.jpg",
+      "assets/figures/pagina-069-figura-01.webp",
+      "assets/figures/pagina-069-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 70,
+    "section": "Arterie degli arti superiori",
+    "lesson": "Asse arterioso dell’arto superiore",
+    "site_path": "#/pagina/70",
+    "images_used": [
+      "assets/pages/page-070.jpg",
+      "assets/figures/pagina-070-figura-01.webp",
+      "assets/figures/pagina-070-figura-02.webp",
+      "assets/figures/pagina-070-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 71,
+    "section": "Arterie degli arti superiori",
+    "lesson": "Asse arterioso dell’arto superiore",
+    "site_path": "#/pagina/71",
+    "images_used": [
+      "assets/pages/page-071.jpg",
+      "assets/figures/pagina-071-figura-01.webp",
+      "assets/figures/pagina-071-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 72,
+    "section": "Arterie degli arti superiori",
+    "lesson": "Asse arterioso dell’arto superiore",
+    "site_path": "#/pagina/72",
+    "images_used": [
+      "assets/pages/page-072.jpg",
+      "assets/figures/pagina-072-figura-01.webp",
+      "assets/figures/pagina-072-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 73,
+    "section": "Arterie degli arti superiori",
+    "lesson": "Asse arterioso dell’arto superiore",
+    "site_path": "#/pagina/73",
+    "images_used": [
+      "assets/pages/page-073.jpg",
+      "assets/figures/pagina-073-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 74,
+    "section": "Arterie degli arti superiori",
+    "lesson": "Asse arterioso dell’arto superiore",
+    "site_path": "#/pagina/74",
+    "images_used": [
+      "assets/pages/page-074.jpg"
+    ]
+  },
+  {
+    "pdf_page": 75,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/75",
+    "images_used": [
+      "assets/pages/page-075.jpg",
+      "assets/figures/pagina-075-figura-01.webp",
+      "assets/figures/pagina-075-figura-02.webp",
+      "assets/figures/pagina-075-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 76,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/76",
+    "images_used": [
+      "assets/pages/page-076.jpg",
+      "assets/figures/pagina-076-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 77,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/77",
+    "images_used": [
+      "assets/pages/page-077.jpg",
+      "assets/figures/pagina-077-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 78,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/78",
+    "images_used": [
+      "assets/pages/page-078.jpg",
+      "assets/figures/pagina-078-figura-01.webp",
+      "assets/figures/pagina-078-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 79,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/79",
+    "images_used": [
+      "assets/pages/page-079.jpg",
+      "assets/figures/pagina-079-figura-01.webp",
+      "assets/figures/pagina-079-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 80,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/80",
+    "images_used": [
+      "assets/pages/page-080.jpg",
+      "assets/figures/pagina-080-figura-01.webp",
+      "assets/figures/pagina-080-figura-02.webp",
+      "assets/figures/pagina-080-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 81,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/81",
+    "images_used": [
+      "assets/pages/page-081.jpg",
+      "assets/figures/pagina-081-figura-01.webp",
+      "assets/figures/pagina-081-figura-02.webp",
+      "assets/figures/pagina-081-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 82,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/82",
+    "images_used": [
+      "assets/pages/page-082.jpg",
+      "assets/figures/pagina-082-figura-01.webp",
+      "assets/figures/pagina-082-figura-02.webp",
+      "assets/figures/pagina-082-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 83,
+    "section": "Arterie degli arti inferiori",
+    "lesson": "Asse ileo-femoro-popliteo e rami della gamba",
+    "site_path": "#/pagina/83",
+    "images_used": [
+      "assets/pages/page-083.jpg",
+      "assets/figures/pagina-083-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 84,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/84",
+    "images_used": [
+      "assets/pages/page-084.jpg",
+      "assets/figures/pagina-084-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 85,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/85",
+    "images_used": [
+      "assets/pages/page-085.jpg",
+      "assets/figures/pagina-085-figura-01.webp",
+      "assets/figures/pagina-085-figura-02.webp",
+      "assets/figures/pagina-085-figura-03.webp",
+      "assets/figures/pagina-085-figura-04.webp"
+    ]
+  },
+  {
+    "pdf_page": 86,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/86",
+    "images_used": [
+      "assets/pages/page-086.jpg",
+      "assets/figures/pagina-086-figura-01.webp",
+      "assets/figures/pagina-086-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 87,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/87",
+    "images_used": [
+      "assets/pages/page-087.jpg"
+    ]
+  },
+  {
+    "pdf_page": 88,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/88",
+    "images_used": [
+      "assets/pages/page-088.jpg",
+      "assets/figures/pagina-088-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 89,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/89",
+    "images_used": [
+      "assets/pages/page-089.jpg",
+      "assets/figures/pagina-089-figura-01.webp",
+      "assets/figures/pagina-089-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 90,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/90",
+    "images_used": [
+      "assets/pages/page-090.jpg",
+      "assets/figures/pagina-090-figura-01.webp",
+      "assets/figures/pagina-090-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 91,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/91",
+    "images_used": [
+      "assets/pages/page-091.jpg",
+      "assets/figures/pagina-091-figura-01.webp",
+      "assets/figures/pagina-091-figura-02.webp",
+      "assets/figures/pagina-091-figura-03.webp"
+    ]
+  },
+  {
+    "pdf_page": 92,
+    "section": "Circolazione venosa",
+    "lesson": "Vene superficiali, profonde, cave e sistema azygos",
+    "site_path": "#/pagina/92",
+    "images_used": [
+      "assets/pages/page-092.jpg",
+      "assets/figures/pagina-092-figura-01.webp",
+      "assets/figures/pagina-092-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 93,
+    "section": "Sistema portale, anastomosi e reti mirabili",
+    "lesson": "Sistema portale e anastomosi",
+    "site_path": "#/pagina/93",
+    "images_used": [
+      "assets/pages/page-093.jpg",
+      "assets/figures/pagina-093-figura-01.webp",
+      "assets/figures/pagina-093-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 94,
+    "section": "Sistema portale, anastomosi e reti mirabili",
+    "lesson": "Sistema portale e anastomosi",
+    "site_path": "#/pagina/94",
+    "images_used": [
+      "assets/pages/page-094.jpg",
+      "assets/figures/pagina-094-figura-01.webp",
+      "assets/figures/pagina-094-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 95,
+    "section": "Sistema portale, anastomosi e reti mirabili",
+    "lesson": "Sistema portale e anastomosi",
+    "site_path": "#/pagina/95",
+    "images_used": [
+      "assets/pages/page-095.jpg",
+      "assets/figures/pagina-095-figura-01.webp",
+      "assets/figures/pagina-095-figura-02.webp"
+    ]
+  },
+  {
+    "pdf_page": 96,
+    "section": "Sistema portale, anastomosi e reti mirabili",
+    "lesson": "Reti mirabili arteriose e venose",
+    "site_path": "#/pagina/96",
+    "images_used": [
+      "assets/pages/page-096.jpg",
+      "assets/figures/pagina-096-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 97,
+    "section": "Sistema portale, anastomosi e reti mirabili",
+    "lesson": "Reti mirabili arteriose e venose",
+    "site_path": "#/pagina/97",
+    "images_used": [
+      "assets/pages/page-097.jpg"
+    ]
+  },
+  {
+    "pdf_page": 98,
+    "section": "Sistema linfatico",
+    "lesson": "Vasi, capillari, dotti e stazioni linfatiche",
+    "site_path": "#/pagina/98",
+    "images_used": [
+      "assets/pages/page-098.jpg",
+      "assets/figures/pagina-098-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 99,
+    "section": "Sistema linfatico",
+    "lesson": "Vasi, capillari, dotti e stazioni linfatiche",
+    "site_path": "#/pagina/99",
+    "images_used": [
+      "assets/pages/page-099.jpg",
+      "assets/figures/pagina-099-figura-01.webp"
+    ]
+  },
+  {
+    "pdf_page": 100,
+    "section": "Sistema linfatico",
+    "lesson": "Vasi, capillari, dotti e stazioni linfatiche",
+    "site_path": "#/pagina/100",
+    "images_used": [
+      "assets/pages/page-100.jpg",
+      "assets/figures/pagina-100-figura-01.webp",
+      "assets/figures/pagina-100-figura-02.webp"
+    ]
+  }
+]

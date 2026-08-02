@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#8f1d2c">
+    <meta name="description" content="Ambiente digitale di studio dell’apparato cardiocircolatorio, tratto integralmente dalla sbobina di Anatomia 1.">
+    <title>Apparato cardiocircolatorio — Anatomia 1</title>
+    <link rel="stylesheet" href="css/site.css">
+    <script src="data/manual-data.js" defer></script>
+    <script src="js/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#contenuto">Vai al contenuto</a>
+
+    <header class="site-header">
+      <button class="icon-button menu-button" type="button" data-action="apri-menu" aria-label="Apri l’indice dei moduli" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <a class="brand" href="#/" aria-label="Torna alla pagina iniziale">
+        <span class="brand-mark" aria-hidden="true">A1</span>
+        <span><strong>Apparato cardiocircolatorio</strong><small>Anatomia 1</small></span>
+      </a>
+      <div class="header-tools">
+        <button class="search-trigger" type="button" data-action="apri-ricerca">
+          <span aria-hidden="true">⌕</span><span>Cerca nel manuale</span><kbd>Ctrl K</kbd>
+        </button>
+        <a class="header-progress" href="#/progresso" aria-label="Apri il progresso di studio">
+          <span class="progress-ring" id="header-progress-ring"><span id="header-progress-value">0%</span></span>
+          <span class="progress-copy">Progresso<small id="header-progress-lessons">0 di 29 lezioni</small></span>
+        </a>
+      </div>
+    </header>
+
+    <div class="app-shell">
+      <aside class="sidebar" id="sidebar" aria-label="Indice dei moduli">
+        <div class="sidebar-heading">
+          <span>Indice degli argomenti</span>
+          <button class="icon-button sidebar-close" type="button" data-action="chiudi-menu" aria-label="Chiudi l’indice">×</button>
+        </div>
+        <nav id="module-navigation"></nav>
+        <div class="sidebar-footer">
+          <a href="#/indice">Indice del manuale</a>
+          <a href="#/glossario">Glossario</a>
+          <a href="#/progresso">Progresso</a>
+        </div>
+      </aside>
+      <button class="nav-scrim" type="button" data-action="chiudi-menu" aria-label="Chiudi il menu"></button>
+      <main class="main-content" id="contenuto" tabindex="-1" aria-live="polite"></main>
+    </div>
+
+    <dialog class="search-dialog" id="search-dialog" aria-labelledby="search-dialog-title">
+      <div class="dialog-header">
+        <div>
+          <p class="eyebrow">Ricerca integrale</p>
+          <h2 id="search-dialog-title">Cerca nel manuale</h2>
+        </div>
+        <button class="icon-button" type="button" data-action="chiudi-ricerca" aria-label="Chiudi la ricerca">×</button>
+      </div>
+      <label class="search-field">
+        <span class="sr-only">Termine da cercare</span>
+        <span aria-hidden="true">⌕</span>
+        <input id="global-search-input" type="search" autocomplete="off" placeholder="Es. crux cordis, fossa ovale, dotto toracico…">
+      </label>
+      <p class="search-hint">La ricerca comprende testo, titoli, termini anatomici, didascalie riconosciute e glossario.</p>
+      <div class="search-results" id="global-search-results"></div>
+    </dialog>
+
+    <dialog class="image-dialog" id="image-dialog" aria-labelledby="image-dialog-title">
+      <div class="image-dialog-header">
+        <div>
+          <p class="eyebrow" id="image-dialog-source">Immagine originale</p>
+          <h2 id="image-dialog-title">Studio dell’immagine</h2>
+        </div>
+        <button class="icon-button image-close" type="button" data-action="chiudi-immagine" aria-label="Chiudi l’immagine">×</button>
+      </div>
+      <div class="image-toolbar" aria-label="Strumenti per lo studio dell’immagine">
+        <button type="button" data-action="immagine-precedente">← Precedente</button>
+        <button type="button" data-action="immagine-successiva">Successiva →</button>
+        <span class="toolbar-separator" aria-hidden="true"></span>
+        <button type="button" data-action="zoom-meno" aria-label="Riduci">−</button>
+        <output id="zoom-output">100%</output>
+        <button type="button" data-action="zoom-piu" aria-label="Ingrandisci">+</button>
+        <button type="button" data-action="zoom-reset">Adatta</button>
+        <span class="toolbar-separator" aria-hidden="true"></span>
+        <button type="button" data-action="aggiungi-copertura">Copri un’etichetta</button>
+        <button type="button" data-action="rimuovi-coperture">Rimuovi coperture</button>
+      </div>
+      <p class="mask-help" id="mask-help">Modalità test: aggiungi una copertura e trascinala sopra un’etichetta; poi prova a ricordarla prima di spostarla.</p>
+      <div class="image-stage" id="image-stage">
+        <div class="image-canvas" id="image-canvas">
+          <img id="lightbox-image" alt="">
+          <div class="mask-layer" id="mask-layer"></div>
+        </div>
+      </div>
+      <div class="image-caption" id="image-caption"></div>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>
