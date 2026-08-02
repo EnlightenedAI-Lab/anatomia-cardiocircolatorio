@@ -1,0 +1,40 @@
+name: Install anatomy website
+
+on:
+  push:
+    paths:
+      - "site-package.part-*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Reassemble and install website
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat site-package.part-* > /tmp/anatomia-site.zip
+          echo "5c3a679c706c75ce0a136acafa92dc80c43d1ae7d7e9b2271a8a333fe255d7fb  /tmp/anatomia-site.zip" | sha256sum -c -
+          mkdir -p /tmp/anatomia-site
+          unzip -q /tmp/anatomia-site.zip -d /tmp/anatomia-site
+          test -f /tmp/anatomia-site/anatomia-cardiocircolatorio/docs/index.html
+          test "$(find /tmp/anatomia-site/anatomia-cardiocircolatorio -type f | wc -l)" -eq 307
+          cp -a /tmp/anatomia-site/anatomia-cardiocircolatorio/. .
+          rm -f site-package.part-*
+
+      - name: Commit website
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Add complete anatomy study website"
+          git push
