@@ -3,7 +3,7 @@ name: Install anatomy website
 on:
   push:
     paths:
-      - "site-package.part-*"
+      - "site-package.ready"
   workflow_dispatch:
 
 permissions:
@@ -27,7 +27,7 @@ jobs:
           test -f /tmp/anatomia-site/anatomia-cardiocircolatorio/docs/index.html
           test "$(find /tmp/anatomia-site/anatomia-cardiocircolatorio -type f | wc -l)" -eq 307
           cp -a /tmp/anatomia-site/anatomia-cardiocircolatorio/. .
-          rm -f site-package.part-*
+          rm -f site-package.part-* site-package.ready
 
       - name: Commit website
         shell: bash
