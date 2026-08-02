@@ -8507,10 +8507,10 @@
       "module": "parete-pericardio",
       "lesson": "parete-cuore",
       "page": 43,
-      "question": "Vero o falso: nella sbobina questa formulazione riguarda «Tonaca avventizia»?",
-      "prompt": "PARETE DEL CUORE La parete del cuore è formata da vari strati, dall’interno verso l’esterno sono: 1- Endocardio; 2- Miocardio; 3- Epicardio.",
-      "answer": false,
-      "explanation": "PARETE DEL CUORE La parete del cuore è formata da vari strati, dall’interno verso l’esterno sono: 1- Endocardio; 2- Miocardio; 3- Epicardio."
+      "question": "Vero o falso: la parete del cuore è formata da endocardio, miocardio ed epicardio?",
+      "prompt": "Dall’interno verso l’esterno, i tre strati della parete cardiaca sono endocardio, miocardio ed epicardio.",
+      "answer": true,
+      "explanation": "Vero. Dall’interno verso l’esterno, la parete del cuore è formata da endocardio, miocardio ed epicardio (p. 43)."
     },
     {
       "id": "quiz-071",
